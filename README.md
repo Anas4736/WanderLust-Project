@@ -8,7 +8,7 @@
 </p>  
   
 
-**Wanderlust** is a full-stack **Airbnb-inspired web application** built using **Node.js, Express, MongoDB, and EJS templates**.  
+**Wanderlust** is a full-stack **web application** built using **Node.js, Express, MongoDB, and EJS templates**.  
 It allows users to browse listings, create new stays, leave reviews, and manage bookings.  
 
 > ⚠️ This is an **academic project** made for learning purposes. It does not handle real payments or provide actual bookings.  
@@ -101,16 +101,15 @@ git clone https://github.com/your-username/wanderlust.git
 cd wanderlust
 
 2️⃣ Install dependencies
-
 npm install
 
 4️⃣ Run the application
-
 node app.js
 # or with nodemon
 nodemon app.js
 
 🧪 Sample User
+You can use mock credentials or register a new user:
 
 Email: demo@wanderlust.com  
 Password: demo123  
