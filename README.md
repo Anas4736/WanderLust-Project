@@ -11,7 +11,7 @@
 **Wanderlust** is a full-stack **web application** built using **Node.js, Express, MongoDB, and EJS templates**.  
 It allows users to browse listings, create new stays, leave reviews, and manage bookings.  
 
-> ⚠️ This is an **academic project** made for learning purposes. It does not handle real payments or provide actual bookings.   
+> ⚠️ This is an **academic project** made for learning purposes. It does not handle real payments or provide actual bookings.    
 
 ---
 
