@@ -1,4 +1,4 @@
-   # 🏡 Wanderlust      
+   # 🏡 Wanderlust     
 
 <p align="center">
   <img src="https://imgs.search.brave.com/mw6UHR_nAwmjtlWe-rAyhNtbkNhAbTLwNSp9A2ZiKFo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2xpZGVzaGFyZWNk/bi5jb20vc3NfdGh1/bWJuYWlscy9haXJi/bmItMTgwNDEyMTM0/ODQ0LXRodW1ibmFp/bC5qcGc_d2lkdGg9/NTYwJmZpdD1ib3Vu/ZHM" 
